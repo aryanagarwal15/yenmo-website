@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Digital Process",
+    "description": "Our Complete Digital Process will make it very easy for you to take loan agains your investment.",
+    "image": {
+      "url": "images/features/noun_branding_1885335.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Interest-Only Repayment",
+    "description": "Chooose the tenure and pay only the interest and repay the loan anytime with balloon repayments.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Retain Fund Growth",
+    "description": "Pledging your investments ensures that your savings grow, and your wealth plan remains intact even while you borrow.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
